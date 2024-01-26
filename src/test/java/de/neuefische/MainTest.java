@@ -11,7 +11,7 @@ class MainTest {
         // GIVEN
         int a = 1;
         int b = 1;
-        int expected = a + b;
+        int expected = a + 2;
         // WHEN
         int actual = Main.add(a, b);
         // THEN
